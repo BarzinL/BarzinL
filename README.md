@@ -1,11 +1,12 @@
 # 👋 Hi, I'm @BarzinL
 - 🚀 I'm the founder of [SANCTVS Inc.](https://www.sanctus.ca), a marketing and technology company.
-- 🌐 We're based in Toronto, Canada, and Dallas, Texas.
+- 🌐 Sanctus originates in Toronto, with presences now in Dallas, Texas, and Boulder, Colorado.
 - 💼 I'm a bootstrapped entrepreneur that specializes in IT solutions, marketing, cybersecurity, AI, and custom media production.
 - 🔧 I'm currently working on:
   - **Talia:** An expansive RPG & universe simulation with procedural generation, advanced agricultural realism, and event-driven rarity.
   - **[Minerva](https://github.com/sanctus-inc/Minerva):** A FOSS alternative creativity suite built using Julia and VulkanCore.jl.
-  - **Kola Nut Syrup:** I love cola and I'm creating a holy grail small-batch cola syrup for my SodaStream. 🤷🏻‍♂️
+  - **Extending Cross-Compilation Support for Julia:** For at least the sake of both Talia and Minerva, I'll be contributing to helping make Julia's cross-compilation capabilities more streamlined.
+  - **Kola Nut Syrup:** I love cola and I'm creating a holy grail small-batch cola syrup for my SodaStream. 🤷🏻‍♂️ (Spoilers: I have not had any time to work on this ☹️)
 - 💡 I'm interested in collaborating on:
   - Open-source software development
   - AI and machine learning projects
