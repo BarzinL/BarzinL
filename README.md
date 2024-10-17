@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @BarzinL
 - 🚀 I'm the founder of [SANCTVS Inc.](https://www.sanctus.ca), a marketing and technology company.
-- 🌐 Sanctus originates in Toronto, with presences now in Dallas, Texas, and Boulder, Colorado.
+- 🌐 Sanctus originates in and currently only has a presence in Toronto, Canada.
 - 💼 I'm a bootstrapped entrepreneur that specializes in IT solutions, marketing, cybersecurity, AI, and custom media production.
 - 🔧 I'm currently working on:
   - **Talia:** An expansive RPG & universe simulation with procedural generation, advanced agricultural realism, and event-driven rarity.
