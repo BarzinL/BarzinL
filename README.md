@@ -3,6 +3,8 @@
 - 🌐 Sanctus originates in and currently only has a presence in Toronto, Canada.
 - 💼 I'm a bootstrapped entrepreneur that specializes in IT solutions, marketing, cybersecurity, AI, and custom media production.
 - 🔧 I'm currently working on:
+  - **LOGOS-1:** LOGOS-1 is an attempt to create an entirely new tokenizer paradigm, using a hierarchical tokenization model that constructs enriched meaning at each level and enables advanced AI functionality current language and multimodal models do not possess.
+  - **NGL-1:** Or "Neuro-Generative Logic 1," a custom AI project for Sanctus using the most cutting-edge AI research and programmed entirely from scratch in JuliaLang, aimed at creating a state-of-the-art AI model. NGL-1 is designed from the ground up to be capable of advanced reasoning and address many of the shortcomings in even the best current AI models.
   - **Talia:** An expansive RPG & universe simulation with procedural generation, advanced agricultural realism, and event-driven rarity.
   - **[Minerva](https://github.com/sanctus-inc/Minerva):** A FOSS alternative creativity suite built using Julia and VulkanCore.jl.
   - **Extending Cross-Compilation Support for Julia:** For at least the sake of both Talia and Minerva, I'll be contributing to helping make Julia's cross-compilation capabilities more streamlined.
