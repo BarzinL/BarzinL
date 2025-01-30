@@ -28,6 +28,8 @@
 - 🏳️ Pronouns: He/Him
 - 🎉 Fun fact: I love experimenting with plant-based medicines and have a history of studying their effects.
 
+If you like what I do and you'd like to support me, [feel free to visit my Ko-Fi page](https://ko-fi.com/barzin)!
+
 <!--
 BarzinL/BarzinL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
