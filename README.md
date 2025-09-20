@@ -25,7 +25,6 @@
 - 💌 How to reach me:
   - [Email me!](mailto:barzin@duck.com)
   - [My LinkedIn](https://www.linkedin.com/in/barzin-lotfabadi/)
-  - [On Bluesky](https://bsky.app/profile/barzin.sanctus.ca))
 - 🏳️ Pronouns: He/Him
 
 If you like what I do and you'd like to support me, [feel free to visit my Ko-Fi page](https://ko-fi.com/barzin)!
