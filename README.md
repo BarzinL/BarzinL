@@ -17,7 +17,6 @@
   - I am the founding President of [Seneca's Biorejuvenation and Anti-aging Research & Technology Group (BART for short)](https://clubs.ssfinc.ca/BART/) - the first such student group of its kind explicitly dedicated to advancing the field of human biological rejuvenation, the only student club of its kind in all of Canada and the 2nd student group of its kind in all of North America.
   - There are [12 hallmarks of aging](images/12Hallmarks2.jpg), and software & AI solutions that aid in research & treatment delivery are critical areas we can innovate in.
   - I was a former AI and marketing advisor to the [Canadian Longevity Association](https://www.canadianlongevity.ca/).
-  - I am also the President of the [Biorejuvenation and Anti-aging Research & Technology Group](https://clubs.ssfinc.ca/BART/) (BART for short) at Seneca Polytechnic, the first post-secondary student club of its kind in all of Ontario (and possibly all of Canada!) dedicated to advancing research the scientific, philosophical, and societal aspects of anti-aging and age-reversal technologies.
 - 📚 I'm constantly learning about:
   - Biochemistry, the pharmacokinetics of plant medicines, and whatever I can absorb about human health.
   - Python, Julia, and other languages that can push medical advances forward.
