@@ -2,7 +2,7 @@
 - 🚀 I'm the founder of [SANCTVS Inc.](https://www.sanctus.ca) ("Sanctus"), a marketing and technology micro-agency.
 - 🌐 Sanctus originates in and currently only has a presence in Toronto, Canada.
 - 💼 I'm a bootstrapped entrepreneur with a broad array of skills in IT solutions, marketing, cybersecurity, AI, and custom media production.
-- 🏫 I'm currently in my 2nd semester at Seneca Polytechnic, studying in the undergraduate Computer Science & Mathematics program.
+- 🏫 I'm currently in my 3rd semester at Seneca Polytechnic, studying in the undergraduate Computer Science & Mathematics program.
 - 🔧 I'm currently working on:
   - **NGL:** Or "Neuro-Generative Logic" an AI research project for Sanctus synthesizing all of my research and knowledge of AI, aimed primarily at pushing forward basic AI research.
   - **Talia:** An expansive RPG & universe simulation with procedural generation, advanced agricultural realism, and event-driven rarity.
