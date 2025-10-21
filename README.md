@@ -4,7 +4,7 @@
 - 💼 I'm a bootstrapped entrepreneur with a broad array of skills in IT solutions, marketing, cybersecurity, AI, and custom media production.
 - 🏫 I'm currently in my 3rd semester at Seneca Polytechnic, studying in the undergraduate Computer Science & Mathematics program.
 - 🔧 I'm currently working on:
-  - **NGL:** Or "Neuro-Generative Logic" an AI research project for Sanctus synthesizing all of my research and knowledge of AI, aimed primarily at pushing forward basic AI research.
+  - **NGL:** Or "Next Generation Learner," an AI research project for Sanctus synthesizing all of my research and knowledge of AI, aimed primarily at pushing forward basic AI research.
   - **Talia:** An expansive RPG & universe simulation with procedural generation, advanced agricultural realism, and event-driven rarity.
   - **[Minerva](https://github.com/sanctus-inc/Minerva):** A FOSS alternative creativity suite built using Julia and VulkanCore.jl.
   - **Kola Nut Syrup:** I love cola and I'm creating a holy grail small-batch cola syrup for my SodaStream. 🤷🏻‍♂️ (Spoilers: I have not had any time to work on this ☹️)
