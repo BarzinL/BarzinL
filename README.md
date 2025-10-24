@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Barzin
 - 🚀 I'm the founder of [SANCTVS Inc.](https://www.sanctus.ca) ("Sanctus"), a marketing and technology micro-agency.
+- 📑 I also write to Substack (mostly about technical things, AI, longevity) when the occasion merits it.
 - 🌐 Sanctus originates in and currently only has a presence in Toronto, Canada.
 - 💼 I'm a bootstrapped entrepreneur with a broad array of skills in IT solutions, marketing, cybersecurity, AI, and custom media production.
 - 🏫 I'm currently in my 3rd semester at Seneca Polytechnic, studying in the undergraduate Computer Science & Mathematics program.
